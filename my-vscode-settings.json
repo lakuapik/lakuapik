@@ -1,7 +1,7 @@
 {
   "breadcrumbs.enabled": false,
   "diffEditor.ignoreTrimWhitespace": false,
-  "editor.fontFamily": "Victor Mono",
+  "editor.fontFamily": "VictorMono Nerd Font",
   "editor.fontLigatures": true,
   "editor.fontWeight": "500",
   "editor.fontSize": 20,
@@ -47,6 +47,7 @@
   "telemetry.enableCrashReporter": false,
   "telemetry.enableTelemetry": false,
   "terminal.integrated.fontSize": 16,
+  "terminal.integrated.fontWeight": 300,
   "workbench.enableExperiments": false,
   "workbench.colorTheme": "One Dark Pro Vivid (Italic)",
   "workbench.iconTheme": "material-icon-theme",
