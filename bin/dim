@@ -1,0 +1,5 @@
+#!/bin/bash
+# usage: dim 0.5 -> 0.5 is the brightness
+
+screen=($(xrandr -q | grep -w 'connected'))
+xrandr --output $screen --brightness $1
