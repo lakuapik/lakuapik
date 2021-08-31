@@ -4,4 +4,4 @@ I believe in the beauty and diversity of the world. Everything I do is to enjoy 
 
 My name is David Adi Nugroho and I am a self-taught Software Developer. 
 
-Find me more at https://lakuapik.github.io
+Find me more at https://davids.id
