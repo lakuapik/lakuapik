@@ -1,44 +1,38 @@
 {
-    // vscode settings
-    "breadcrumbs.enabled": false,
-    "diffEditor.ignoreTrimWhitespace": false,
-    "editor.fontFamily": "VictorMono Nerd Font",
-    "editor.fontLigatures": true,
-    "editor.fontWeight": "500",
-    "editor.fontSize": 22,
-    "editor.formatOnSaveMode": "modifications",
-    "editor.lineHeight": 30,
-    "editor.minimap.enabled": false,
-    "editor.renderWhitespace": "none",
-    "editor.rulers": [
-        80,
-        100
-    ],
-    "editor.wordWrap": "on",
-    "explorer.confirmDelete": false,
-    "extensions.ignoreRecommendations": true,
-    "files.trimFinalNewlines": true,
-    "files.trimTrailingWhitespace": true,
-    "security.workspace.trust.enabled": false,
-    "telemetry.enableCrashReporter": false,
-    "telemetry.enableTelemetry": false,
-    "terminal.integrated.fontSize": 18,
-    "terminal.integrated.fontWeight": 300,
-    "workbench.editor.untitled.hint": "hidden",
-    "workbench.enableExperiments": false,
-    "workbench.colorTheme": "Palenight Operator",
-    "workbench.iconTheme": "material-icon-theme",
-    "workbench.settings.enableNaturalLanguageSearch": false,
-    "workbench.startupEditor": "none",
-    "workbench.tips.enabled": false,
-    "workbench.sideBar.location": "right",
-    // by language settings
-    "[markdown]": {
-        "editor.wordWrap": "on",
-        "editor.quickSuggestions": false,
-        "files.trimTrailingWhitespace": false,
-        "editor.formatOnSave": false
-    },
-    // extensions settings
-    // trimmed
+  // vscode settings
+	"breadcrumbs.enabled": false,
+	"diffEditor.ignoreTrimWhitespace": false,
+	"editor.fontFamily": "VictorMono Nerd Font",
+	"editor.fontLigatures": true,
+	"editor.fontSize": 22,
+	"editor.fontWeight": "500",
+	"editor.formatOnSaveMode": "modifications",
+	"editor.lineHeight": 30,
+	"editor.minimap.enabled": false,
+	"editor.renderWhitespace": "none",
+	"editor.rulers": [
+		80,
+		100
+	],
+	"editor.wordWrap": "on",
+	"explorer.confirmDelete": false,
+	"extensions.ignoreRecommendations": true,
+	"files.trimFinalNewlines": true,
+	"files.trimTrailingWhitespace": true,
+	"security.workspace.trust.enabled": false,
+	"telemetry.telemetryLevel": "off",
+	"terminal.integrated.fontSize": 18,
+	"terminal.integrated.fontWeight": 300,
+	"workbench.colorTheme": "Bearded Theme Stained Purple",
+	"workbench.editor.untitled.hint": "hidden",
+	"workbench.enableExperiments": false,
+	"workbench.iconTheme": "bearded-icons",
+	"workbench.settings.enableNaturalLanguageSearch": false,
+	"workbench.sideBar.location": "right",
+	"workbench.startupEditor": "none",
+	"workbench.statusBar.visible": false,
+	"workbench.tips.enabled": false,
+	"git.ignoreMissingGitWarning": true,
+  // language settings
+  // extension settings
 }
